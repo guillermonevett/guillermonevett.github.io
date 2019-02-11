@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Guillermo Nevett</title>
+    <link>https://guillermonevett.github.io/home/</link>
+    <description>Recent content in Homes on Guillermo Nevett</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 10 Jun 2018 00:00:00 -0600</lastBuildDate>
+
+	<atom:link href="https://guillermonevett.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+
+
+    <item>
+      <title></title>
+      <link>https://guillermonevett.github.io/home/about/</link>
+      <pubDate>Sun, 10 Jun 2018 00:00:00 -0600</pubDate>
+
+      <guid>https://guillermonevett.github.io/home/about/</guid>
+      <description>Welcome I am a fourth year Ph.D. student in Civil at the University of Colorado Boulder. My dissertation is focused on productivity in highway construction projects. Specifically, I&amp;rsquo;m studying the impact of bid quantities and project characteristics have on the duration of construction of road transportation projects, under Dr. Paul Goodrum's supervision.</description>
+    </item>
+
+    <item>
+      <title>Selected Publications</title>
+      <link>https://guillermonevett.github.io/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+
+      <guid>https://guillermonevett.github.io/home/publications_selected/</guid>
+      <description></description>
+    </item>
+
+    <item>
+      <title>Recent Publications</title>
+      <link>https://guillermonevett.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+
+      <guid>https://guillermonevett.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+
+    <item>
+      <title>Conferences</title>
+      <link>https://guillermonevett.github.io/home/talks_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+
+      <guid>https://guillermonevett.github.io/home/talks_selected/</guid>
+      <description></description>
+    </item>
+
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://guillermonevett.github.io/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+
+      <guid>https://guillermonevett.github.io/home/talks/</guid>
+      <description></description>
+    </item>
+
+    <item>
+      <title>Recent Posts</title>
+      <link>https://guillermonevett.github.io/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+
+      <guid>https://guillermonevett.github.io/home/posts/</guid>
+      <description></description>
+    </item>
+
+    <item>
+      <title>Projects</title>
+      <link>https://guillermonevett.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+
+      <guid>https://guillermonevett.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+
+    <item>
+      <title>Teaching</title>
+      <link>https://guillermonevett.github.io/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+
+      <guid>https://guillermonevett.github.io/home/teaching/</guid>
+      <description>I have been a teaching assistant for the following courses at department of Civil Environmental and Architectural Engineering department (University of Colorado Boulder):
+ CVEN 3256: Construction Equipment and Methods (Spring 2018) CVEN 2012: intro toGeomatics (Fall 2017)  </description>
+    </item>
+
+    <item>
+      <title>Tags</title>
+      <link>https://guillermonevett.github.io/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0600</pubDate>
+
+      <guid>https://guillermonevett.github.io/home/tags/</guid>
+      <description></description>
+    </item>
+
+    <item>
+      <title>Contact</title>
+      <link>https://guillermonevett.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+
+      <guid>https://guillermonevett.github.io/home/contact/</guid>
+      <description></description>
+    </item>
+
+    <item>
+      <title>Custom Section</title>
+      <link>https://guillermonevett.github.io/home/custom/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+
+      <guid>https://guillermonevett.github.io/home/custom/</guid>
+      <description>This is an example of using the custom widget to create your own homepage section.
+To remove this section, either delete content/home/custom-section.md or edit the frontmatter of the file to deactivate the widget by setting active = false.</description>
+    </item>
+
+  </channel>
+</rss>
